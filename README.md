@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil ❤️
 
 Meu nome é Jaiane
 
@@ -6,8 +6,8 @@ Meu nome é Jaiane
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 📬
 
 00001105370057sp@al.educacao.sp.gov.br
 
-![](https://tenor.com/pt-BR/view/0001-gif-25597406)
+![](https://media1.tenor.com/m/mhLPO2VldCkAAAAC/0001.gif)
